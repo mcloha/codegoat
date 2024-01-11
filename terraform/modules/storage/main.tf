@@ -234,3 +234,5 @@ resource "aws_s3_bucket_acl" "public_access_acl" {
 
   acl = var.acl
 }
+
+
